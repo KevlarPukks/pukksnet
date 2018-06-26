@@ -7,25 +7,19 @@
  */
 
 /**
- * Description of LandingPage
+ * Description of Home
  *
  * @author sdbur
  */
-class Landing_page extends CI_Controller
+class Home extends CI_Controller
 {
 
     public function index()
     {
-        $data['title'] = 'Pukks.net';
-        $this->load->view('mdbheader', $data);
-        $this->load->view('landing_page');
-        $this->load->view('footer');
-    }
-
-    public function home()
-    {
         $data['title'] = 'home';
         $this->load->view('mdbheader', $data);
+
+        $this->load->view('footer');
     }
 
 }

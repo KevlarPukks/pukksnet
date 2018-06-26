@@ -23,14 +23,19 @@
             <i class="fa fa-github mr-3"></i>
         </a>
 
+        <a href="https://www.instagram.com/pukka_studios/" target="_blank">
+            <i class="fa fa-instagram mr-3"></i>
+        </a>
+
 
     </div>
     <!-- Social icons -->
 
     <!--Copyright-->
     <div class="footer-copyright py-3">
-        © 2018 Copyright:
-        <a href="https://mdbootstrap.com/bootstrap-tutorial/" target="_blank"> Pukks.net</a>
+        © <?= date('Y'); ?> Copyright:
+        <?= anchor(base_url(), 'Pukks.net'); ?>
+
     </div>
     <!--/.Copyright-->
 
