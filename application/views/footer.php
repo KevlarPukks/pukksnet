@@ -1,3 +1,4 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');?>
 <!--Footer-->
 <footer class="page-footer text-center font-small mt-4 wow fadeIn">
 
