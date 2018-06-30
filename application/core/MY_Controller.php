@@ -8,7 +8,7 @@
 		{
 			parent::__construct();
 			$this->data['page_title'] = 'Pukks.net';
-			$this->data['page_description'] = 'Pukks.net';
+			$this->data['page_description'] = '';
 			$this->data['before_closing_head'] = '';
 			$this->data['before_closing_body'] = '';
 		}
@@ -17,7 +17,7 @@
 		{
 			if($template == 'json' || $this->input->is_ajax_request())
 			{
-				header('Content-Type: application/json');
+	 			header('Content-Type: application/json');
 				echo json_encode($this->data);
 			}
 			elseif(is_null($template))

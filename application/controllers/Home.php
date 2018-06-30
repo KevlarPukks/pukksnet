@@ -11,15 +11,17 @@
  *
  * @author sdbur
  */
-class Home extends CI_Controller
+class Home extends MY_Controller
 {
 
     public function index()
     {
         $data['title'] = 'home';
-        $this->load->view('mdbheader', $data);
-
-        $this->load->view('footer');
+	    $this->data['page_title'] = 'Home';
+	    $this->data['page_description'] = 'The Home Page';
+	    $this->data['before_closing_head'] = '';
+	    $this->data['before_closing_body'] = '';
+$this->render('home/index_view');
     }
 
 }
