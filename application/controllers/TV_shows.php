@@ -20,4 +20,14 @@
 			$this->data['page_description'] = 'Here are some of the top TV show/series reviews by Pukks.net';
 			$this->render('tv_shows/index_view');
 		}
+		public function show($show = NULL){
+			$this->data['show'] = $this->TV_shows_model->get_shows($show);
+		if(empty($this->data['show'])){
+				show_404();
+			}
+			$this->data['shows'] = $this->TV_shows_model->get_shows();
+			$this->data['page_title'] = $this->data['show']['title'];
+			$this->data['page_description'] = $this->data['show']['genre'];
+			$this->render('tv_shows/tv_show_view');
+		}
 	}

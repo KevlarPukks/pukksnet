@@ -7,9 +7,9 @@
 		<h1 class="mb-4">
 			<strong><?=$page_title;?></strong>
 		</h1>
-		<p class="mb-4">
+		<h4 class="mb-4">
 			<strong><?=$page_description;?></strong>
-		</p>
+		</h4>
 	</div>
 	<!-- Content -->
 </section>

@@ -11,10 +11,14 @@
 		public function __construct(){
 			$this->load->database();
 		}
-		public function get_shows()
+		public function get_shows($show = FALSE)
 		{
-			$query = $this->db->get('shows');
-			return $query->result_array();
-			
+			if($show === FALSE)
+			{
+				$query = $this->db->get('shows');
+				return $query->result_array();
+			}
+			$query = $this->db->get_where('shows',array('title'=>$show));
+			return $query->row_array();
 		}
 	}

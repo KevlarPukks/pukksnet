@@ -3,7 +3,7 @@
 			
 			<!-- Navbar brand -->
             <img src="<?=base_url('assets/img/logo.png');?>" height="30" alt="">
-			<a class="navbar-brand" href="#">Pukks.net</a>
+			<a class="navbar-brand" href="<?=base_url('home');?>">Pukks.net</a>
 			
 			<!-- Collapse button -->
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav"
@@ -17,7 +17,7 @@
 				<!-- Links -->
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item">
-						<a class="nav-link" href="">Home
+						<a class="nav-link" href="<?=base_url('home');?>">Home
                             <span class="sr-only">(current)</span>
 						</a>
 					</li>
