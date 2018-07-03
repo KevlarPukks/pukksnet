@@ -1,0 +1,7 @@
+
+_	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz8°‘·ÏÄ,
+a	php:S1192"GDefine a constant instead of duplicating this literal "tables" 4 times.(·þæë8°‘·ÏÄ,
+a	php:S1192"GDefine a constant instead of duplicating this literal "groups" 3 times.(²ñð«8°‘·ÏÄ,
+`	php:S1192"FDefine a constant instead of duplicating this literal "users" 3 times.(·þæë8°‘·ÏÄ,
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8°‘·ÏÄ,
+0	php:S2010"Replace "OR" with "||".(¥ÑÕz8°‘·ÏÄ,

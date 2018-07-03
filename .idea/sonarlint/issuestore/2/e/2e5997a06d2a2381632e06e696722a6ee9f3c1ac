@@ -1,0 +1,8 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+^	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¨£æ†ÿÿÿÿÿ
+a	php:S1192"IDefine a constant instead of duplicating this literal "password" 3 times.(„èØùúÿÿÿÿ
+a	php:S1192"IDefine a constant instead of duplicating this literal "username" 3 times.(Æ¯Éøÿÿÿÿ
+_	php:S1192"GDefine a constant instead of duplicating this literal "<br />" 4 times.(Æ¯Éøÿÿÿÿ
+A	php:S1125")Remove the literal "FALSE" boolean value.(ğÃÇëÿÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(¨£æ†ÿÿÿÿÿ

@@ -1,0 +1,12 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+e	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¨£æ†ÿÿÿÿÿ8ÄŠÃÏÄ,
+d	php:S1192"JDefine a constant instead of duplicating this literal "last_name" 4 times.(ĞšÑ·8ÄŠÃÏÄ,
+p	php:S1192"QDefine a constant instead of duplicating this literal "confirm_password" 3 times.(ÔŸè‹øÿÿÿÿ8ÄŠÃÏÄ,
+h	php:S1192"IDefine a constant instead of duplicating this literal "password" 3 times.(„èØùúÿÿÿÿ8ÄŠÃÏÄ,
+e	php:S1192"KDefine a constant instead of duplicating this literal "first_name" 4 times.(Öìµ÷8ÄŠÃÏÄ,
+`	php:S1192"FDefine a constant instead of duplicating this literal "email" 4 times.(ŞõÛ¥8ÄŠÃÏÄ,
+b	php:S1192"HDefine a constant instead of duplicating this literal "<br />" 11 times.(Öìµ÷8ÄŠÃÏÄ,
+h	php:S1192"IDefine a constant instead of duplicating this literal "username" 4 times.(Æ¯Éøÿÿÿÿ8ÄŠÃÏÄ,
+H	php:S1125")Remove the literal "FALSE" boolean value.(ğÃÇëÿÿÿÿÿ8ÄŠÃÏÄ,
+6	php:S2010"Replace "OR" with "||".(¨£æ†ÿÿÿÿÿ8ÄŠÃÏÄ,

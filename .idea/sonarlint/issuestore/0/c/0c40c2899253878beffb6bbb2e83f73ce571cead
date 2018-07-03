@@ -1,0 +1,8 @@
+
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8ÏµãÛÄ,
+h	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ãœÙG8ÏµãÛÄ,
+dphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(º¼ıÿúÿÿÿÿ8ÏµãÛÄ,
+_	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz8ÏµãÛÄ,
+s	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿³îĞşÿÿÿÿ8ÏµãÛÄ,
+|	php:S1488"]Immediately return this expression instead of assigning it to the temporary variable "$salt".(ëĞÖ°úÿÿÿÿ8ÏµãÛÄ,
+0	php:S2010"Replace "OR" with "||".(¥ÑÕz8ÏµãÛÄ,

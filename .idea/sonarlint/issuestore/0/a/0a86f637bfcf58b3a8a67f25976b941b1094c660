@@ -1,0 +1,4 @@
+
+e	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(ê„šüÿÿÿÿ8çœÇÏÄ,
+6	php:S2010"Replace "OR" with "||".(ê„šüÿÿÿÿ8çœÇÏÄ,
+nphp:S101"PRename class "Landing_page" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(­çÓ°ıÿÿÿÿ8’¹ÇÏÄ,

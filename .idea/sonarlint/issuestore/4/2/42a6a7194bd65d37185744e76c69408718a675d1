@@ -1,0 +1,19 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+uphp:S101"^Rename class "Migration_Install_ion_auth" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(´‰Ğèúÿÿÿÿ
+^	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(ê„šüÿÿÿÿ
+_	php:S1192"LDefine a constant instead of duplicating this literal "description" 3 times.(ıéîÂ
+`	php:S1192"MDefine a constant instead of duplicating this literal "users_groups" 4 times.(Õë…Š
+b	php:S1192"ODefine a constant instead of duplicating this literal "auto_increment" 4 times.(¾€Óœ
+_	php:S1192"GDefine a constant instead of duplicating this literal "groups" 4 times.(ÿÓÕ·üÿÿÿÿ
+g	php:S1192"ODefine a constant instead of duplicating this literal "login_attempts" 3 times.(÷şÿÿÿÿ
+b	php:S1192"JDefine a constant instead of duplicating this literal "MEDIUMINT" 6 times.(ìÊÚ†ûÿÿÿÿ
+c	php:S1192"KDefine a constant instead of duplicating this literal "ip_address" 3 times.(³•ıóøÿÿÿÿ
+Y	php:S1192"FDefine a constant instead of duplicating this literal "users" 4 times.(·Ã÷ë
+`	php:S1192"HDefine a constant instead of duplicating this literal "user_id" 3 times.(€‹î¥úÿÿÿÿ
+\	php:S1192"IDefine a constant instead of duplicating this literal "group_id" 3 times.(à¦¯é
+a	php:S1192"IDefine a constant instead of duplicating this literal "VARCHAR" 16 times.(Ã¦“Ûøÿÿÿÿ
+b	php:S1192"JDefine a constant instead of duplicating this literal "unsigned" 11 times.(ÖşÇ—ıÿÿÿÿ
+d	php:S1192"LDefine a constant instead of duplicating this literal "constraint" 27 times.(©¬ñ˜ûÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(ê„šüÿÿÿÿ
+„php:S138"rThis function "up" has 197 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ê çé

@@ -1,0 +1,6 @@
+
+Wphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(«¼§
+[	php:S1192"HDefine a constant instead of duplicating this literal "message" 3 times.(ÅÀ§Û
+0php:S125"Remove this commented out code.(Ì»÷
+
+Aphp:S121"0Add curly braces around the nested statement(s).(«¼§

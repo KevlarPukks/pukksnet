@@ -29,5 +29,6 @@
 			$this->data['page_title'] = $this->data['show']['title'];
 			$this->data['page_description'] = $this->data['show']['genre'];
 			$this->render('tv_shows/tv_show_view');
+	
 		}
 	}

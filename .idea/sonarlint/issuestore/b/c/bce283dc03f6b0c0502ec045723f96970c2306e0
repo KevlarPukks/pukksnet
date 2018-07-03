@@ -1,0 +1,7 @@
+
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8ÏŠÎ°Å,
+lphp:S101"QRename class "MY_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¬ç–Í8ÏŠÎ°Å,
+sphp:S101#"SRename class "Auth_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Â ËŽýÿÿÿÿ8ÏŠÎ°Å,
+M	php:S1185,"1Remove this method "render" to simply inherit it.(ƒèýÏ8ÏŠÎ°Å,
+a	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz8ÏŠÎ°Å,
+2	php:S2010"Replace "OR" with "||".(¥ÑÕz8ÏŠÎ°Å,

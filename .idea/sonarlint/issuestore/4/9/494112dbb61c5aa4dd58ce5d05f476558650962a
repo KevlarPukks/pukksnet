@@ -1,0 +1,11 @@
+
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8•¢¯ŒÅ,
+_	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz8•¢¯ŒÅ,
+8php:S125"Remove this commented out code.(¯¼Ã‹8•¢¯ŒÅ,
+=php:S125"Remove this commented out code.(ÿàÄÉıÿÿÿÿ8•¢¯ŒÅ,
+=php:S125"Remove this commented out code.(Í• ìüÿÿÿÿ8•¢¯ŒÅ,
+8php:S125"Remove this commented out code.(µ¾îÁ8•¢¯ŒÅ,
+=php:S125"Remove this commented out code.(™©…åıÿÿÿÿ8•¢¯ŒÅ,
+=php:S125"Remove this commented out code.(Ú·«°ûÿÿÿÿ8•¢¯ŒÅ,
+8php:S125"Remove this commented out code.(Í¸ÿ8•¢¯ŒÅ,
+0	php:S2010"Replace "OR" with "||".(¥ÑÕz8•¢¯ŒÅ,

@@ -1,0 +1,4 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+^	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(ê„šüÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(ê„šüÿÿÿÿ
