@@ -1,5 +1,5 @@
 
+=php:S125"Remove this commented out code.(ËÁ ıÿÿÿÿ8÷Çó¯Å,
+_	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz8÷Çó¯Å,
 Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8÷Çó¯Å,
-2	php:S2010"Replace "OR" with "||".(¥ÑÕz8÷Çó¯Å,
-a	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz8÷Çó¯Å,
-?php:S125"Remove this commented out code.(ËÁ ıÿÿÿÿ8÷Çó¯Å,
+0	php:S2010"Replace "OR" with "||".(¥ÑÕz8÷Çó¯Å,

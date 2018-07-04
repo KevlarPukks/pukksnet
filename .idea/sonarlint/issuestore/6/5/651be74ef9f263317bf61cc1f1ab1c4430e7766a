@@ -1,4 +1,4 @@
 
+e	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¨£æ†ÿÿÿÿÿ8Äş®Å,
+6	php:S2010"Replace "OR" with "||".(¨£æ†ÿÿÿÿÿ8Äş®Å,
 Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8Äş®Å,
-g	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¨£æ†ÿÿÿÿÿ8Äş®Å,
-8	php:S2010"Replace "OR" with "||".(¨£æ†ÿÿÿÿÿ8Äş®Å,

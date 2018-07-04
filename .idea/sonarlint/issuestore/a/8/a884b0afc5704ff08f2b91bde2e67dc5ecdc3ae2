@@ -1,7 +1,7 @@
 
 Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8ØñºŒÅ,
-_	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz8ØñºŒÅ,
-g	php:S1192"MDefine a constant instead of duplicating this literal "auth_message" 4 times.(ğ™¡½8ØñºŒÅ,
-e	php:S1192"KDefine a constant instead of duplicating this literal "first_name" 3 times.(ƒü¿8ØñºŒÅ,
 i	php:S1192"JDefine a constant instead of duplicating this literal "last_name" 3 times.(Ç¸Á°şÿÿÿÿ8ØñºŒÅ,
+e	php:S1192"KDefine a constant instead of duplicating this literal "first_name" 3 times.(ƒü¿8ØñºŒÅ,
+g	php:S1192"MDefine a constant instead of duplicating this literal "auth_message" 4 times.(ğ™¡½8ØñºŒÅ,
 0	php:S2010"Replace "OR" with "||".(¥ÑÕz8ØñºŒÅ,
+_	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz8ØñºŒÅ,

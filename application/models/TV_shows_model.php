@@ -21,4 +21,17 @@
 			$query = $this->db->get_where('shows',array('title'=>$show));
 			return $query->row_array();
 		}
+		public function post_show_review()
+		{
+			$title = url_title($this->input->post('title'),'-',TRUE);
+			$data = array(
+				'title'=> $title,
+				'genre'=> $this->input->post('genre'),
+				'imdbrating'=> $this->input->post('imdbrating'),
+				'pukksrating'=> $this->input->post('pukksrating'),
+				'imdbreview'=> $this->input->post('imdbreview'),
+				'pukksreview'=> $this->input->post('pukksreview')
+			);
+			return $this->db->insert('shows',$data);
+		}
 	}

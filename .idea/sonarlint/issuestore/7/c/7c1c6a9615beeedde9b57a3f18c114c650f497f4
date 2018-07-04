@@ -1,0 +1,28 @@
+
+vphp:S115"dRename this constant "EXIT__AUTO_MIN" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÃÅó©
+vphp:S115"dRename this constant "EXIT__AUTO_MAX" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(êÔµû
+X	php:S3699"FRemove this use of the output from exit; exit doesn't return anything.(¥ÑÕz
+)	php:S2010"Replace "OR" with "||".(¥ÑÕz
+/	php:S2010"Replace "OR" with "||".(ûŠûÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(£†³×şÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(Ñ‹ì”ùÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(³ÃÓ×ûÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(ìî¨ıúÿÿÿÿ
+*	php:S2010"Replace "OR" with "||".(Ş”¼Ø
+*	php:S2010"Replace "OR" with "||".(ˆ…¶Ÿ
+/	php:S2010"Replace "OR" with "||".(ä¸Í‚üÿÿÿÿ
+)	php:S2010"Replace "OR" with "||".(ä¤û 
+*	php:S2010"Replace "OR" with "||".(ÓÒŸ¾
+*	php:S2010"Replace "OR" with "||".(Šüÿü
+/	php:S2010"Replace "OR" with "||".(ÿ‚çŞıÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(ÅêŒÊüÿÿÿÿ
+*	php:S2010"Replace "OR" with "||".(î†»±
+/	php:S2010"Replace "OR" with "||".(¼‚ç†ıÿÿÿÿ
+*	php:S2010"Replace "OR" with "||".(İü¶
+*	php:S2010"Replace "OR" with "||".(Ääû‰
+*	php:S2010"Replace "OR" with "||".(Êå’ì
+/	php:S2010"Replace "OR" with "||".(œæ¤ùûÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(…øØøÿÿÿÿ
+/	php:S2010"Replace "OR" with "||".(úÒ¨Âúÿÿÿÿ
+*	php:S2010"Replace "OR" with "||".(ÃÅó©
+*	php:S2010"Replace "OR" with "||".(êÔµû
